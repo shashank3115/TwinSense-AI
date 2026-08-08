@@ -928,18 +928,6 @@ Project developed as part of the **Ideas for India Innovation Challenge 2026**.
 
 https://twinsenseai-enymsbe7.manus.space/overview
 
-### GitHub Repository
-
-_Add repository URL after publishing._
-
-### Demonstration Video
-
-_Add final demonstration video link._
-
-### Concept-to-Prototype Plan
-
-_Add supporting document link if required._
-
 ---
 
 # 📄 Hackathon Submission
